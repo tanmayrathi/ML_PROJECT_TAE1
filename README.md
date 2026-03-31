@@ -25,6 +25,8 @@ Target:
 0 → No Stroke
 1 → Stroke
 ## Machine Learning Models Used
+70:30-Nupur Bhuradkar
+80:20-Tanmay Rathi
 
 The following classification algorithms were implemented and evaluated:
 
